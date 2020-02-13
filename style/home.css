@@ -1,0 +1,75 @@
+.banner{
+    border-bottom: solid;
+    border-color: gray;
+    border-width: thin;
+    box-shadow: 0px 0px 8px #888888;
+}
+.logo{
+    max-width: 140px;
+}
+.search{
+    margin-top: 43px;
+    width: 150px;
+    height: 25px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-color: gold;
+    font-size: 15px;
+}
+.container_btn_search{
+    margin-top: 45px;
+}
+.search_button{
+    border: none;
+}
+.search_image{
+    width: 28px;
+}
+.sign-button-container{
+    margin-left: auto;
+}
+.sign-button{
+    margin-top: 31px;
+    margin-bottom: 20px;
+    width: 90px;
+    height: 46px;
+    font-size: 15px;
+    border-color: gold;
+    border-width: medium;
+    border-radius: 10px;
+}
+.container-left{
+    box-shadow: 0px 0px 8px #888888;
+    width: 197px;
+}
+.title-categories{
+    
+}
+.movie-info{
+    padding: 13px;
+    text-align: center;
+    margin: 10px;
+    border: solid;
+    border-color: black;
+    background-color: lightgray;
+}
+.flex{
+    display: flex;
+}
+.p-r-20{
+    padding-right: 20px;
+}
+.m-l-55{
+    margin-left: 55px;
+}
+.p-t-15{
+    padding-top: 15px;
+}
+.p-b-15{
+    padding-bottom: 15px;
+}
+p{
+    line-height: 5px;
+}
+
